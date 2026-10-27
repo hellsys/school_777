@@ -1,0 +1,5 @@
+# данные датасета не хранятся в репозитории
+CelebA_Spoof/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
